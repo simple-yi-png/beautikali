@@ -1,8 +1,10 @@
 # Beautikali
 Make your kali linux terminal good looking
+
 <p align="center">
 <img src="preview.png" alt="Sorry Preview Image is Not Available">
 </p>
+
 ## Install
 
 ### Installing Dependencies:
