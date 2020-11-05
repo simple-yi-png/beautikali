@@ -1,16 +1,29 @@
 # Beautikali
-Make your terminal good looking
+Make your kali linux terminal good looking
 
 ## Install
 
 ### Installing Dependencies:
+```
+sudo apt update [ Updating Repositories ]
+sudo apt upgrade [ Updating All programs installed on system ]
+sudo apt-get install figlet lolcat [ Installing figlet and lolcat ]
+```
+## Installing The new UI
+```
+cd home/username/
+sudo nano .bashrc
+```
+**After Nano Opens The File Then Copy And Paste everything below to the last line in the .bashrc file**
+```
+figlet YOUR NAME | lolcat
+sleep 2s
+PS1="\033[34m[Your Name]\033[36m Kali Machine ~ \033[92m"
+```
 
-clone lolcat repository using `git`:
-```bash
-sudo apt-get install snapd git
-```
-```
-git clone https://github.com/busyloop/lolcat.git
-cd lolcat/bin/
-sudo snap 
-```
+#### If you faced any issues just write to us at theindianhackers.help@gmail.com
+#### Note We Do Not Ask for any OTP or password
+#### Talk With Us At Our Instagram (https://www.instagram.com/theindianhackers)
+
+# Thanks For Reading
+# Greating From The Indian Hackers
