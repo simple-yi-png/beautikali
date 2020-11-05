@@ -30,4 +30,4 @@ PS1="\033[34m[Your Name]\033[36m Kali Machine ~ \033[92m"
 #### Talk With Us At Our [Instagram](https://www.instagram.com/theindianhackers)
 
 # Thanks For Reading
-# Greating From The Indian Hackers
+# Greeting From The Indian Hackers
